@@ -48,5 +48,8 @@
   },
   "engines": {
     "node": "8.* || >= 10.*"
+  },
+  "dependencies": {
+    "ember-cli-code-coverage": "^0.4.2"
   }
 }
